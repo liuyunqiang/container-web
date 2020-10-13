@@ -1,5 +1,5 @@
 import Loadable from 'react-loadable';
-import createBrowserHistory from 'history/createBrowserHistory';
+import { createBrowserHistory } from 'history';
 // import MainLayout from '@/layouts/MainLayout';
 import Loading from '../components/Loading';
 
